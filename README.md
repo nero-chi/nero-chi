@@ -1,5 +1,5 @@
 ## Holaaa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kennedy
- I'm noob and bad to learning something's :v
+- **__I'm noob and bad to learning something's :v__**
 ##   **Github Stats**
 ![Kennedy Github stats](https://github-readme-stats.vercel.app/api?username=KennedyProject&show_icons=true&theme=tokyonight)
 
