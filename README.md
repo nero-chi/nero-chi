@@ -3,7 +3,7 @@
 <h3> I'm noob and bad to learning something's :v
 
 _____
-- Real name Sena 
+
 - Im 18 years old
 - Indonesia 🇮🇩
 _____
