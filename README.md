@@ -5,7 +5,7 @@
 ________
 >- Real name Muhammad Sena Al-Kahfi
 >- Im 18 years old
->- Bandung, Indonesia 🇮🇩
+>- Indonesia 🇮🇩
 
 ## Github Stats
 ![Kennedy Github stats](https://github-readme-stats.vercel.app/api?username=KennedyProject&show_icons=true&theme=tokyonight)
