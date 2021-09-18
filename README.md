@@ -2,10 +2,11 @@
 
 <h3> I'm noob and bad to learning something's :v
 
-________
->- Real name Muhammad Sena Al-Kahfi
->- Im 18 years old
->- Indonesia 🇮🇩
+_____
+- Real name Sena 
+- Im 18 years old
+- Indonesia 🇮🇩
+_____
 
 ## Github Stats
 ![Kennedy Github stats](https://github-readme-stats.vercel.app/api?username=KennedyProject&show_icons=true&theme=tokyonight)
