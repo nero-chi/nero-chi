@@ -4,8 +4,8 @@
 - Eat (50%)
 - Sleep (50%)
 - Learn code (-100%)
+- Listening Lil Peep (1000%)
 
-## I really like LiL Peep music!
 ![Random image](https://telegra.ph/file/42934a3f63d07274d2de6.jpg)
 
 ### Let's connect!
