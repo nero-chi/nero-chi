@@ -6,7 +6,7 @@
 - Learn code (-100%)
 
 ## Github Stats
-![Kennedy Github stats](https://github-readme-stats.vercel.app/api?username=KennedyProject&show_icons=true&theme=tokyonight)
+![Kennedy Github stats](https://github-readme-stats.vercel.app/api?username=KennedyProject&show_icons=true&theme=dracula)
 
 ### Let's connect!
 <p>
