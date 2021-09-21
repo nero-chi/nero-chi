@@ -18,7 +18,7 @@
 ### Let's connect!
 <p>
     <a href="https://t.me/xgothboi" target="blank"><img src="https://img.shields.io/badge/sena-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://instagram.com/acxken._" target="blank"><img src="https://img.shields.io/badge/kennedy._-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://instagram.com/acxken._" target="blank"><img src="https://img.shields.io/badge/kennedy_-30302f?style=flat&logo=instagram" /></a>
 
 
 
