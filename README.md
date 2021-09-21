@@ -1,10 +1,16 @@
 ## Holaaa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kennedy
 
-## Hobby watching anime, swimming, drawing
-- Eat (50%)
-- Sleep (50%)
-- Learn code (-100%)
-- Listening Lil Peep (1000%)
+## Favourite
+- `Drawing`
+- `Anime`
+- `Swiming`
+- `Listen Music`
+
+## Skils
+- Eat `(50%)`
+- Sleep `(50%)`
+- Learn code `(-100%)`
+- Listening Lil Peep `(1000%)`
 
 ![Random image](https://telegra.ph/file/42934a3f63d07274d2de6.jpg)
 
