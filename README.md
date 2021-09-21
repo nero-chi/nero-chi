@@ -1,7 +1,5 @@
-![Random image](https://telegra.ph/file/7af36f08ceaffe20b96c5.jpg)
-
-
 ## Holaaa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kennedy
+`I'm noob and bad to learning something, and i so lazy to lesrning code. I joined github just for fun!`
 
 ## Favourite :
 - `Drawing`
