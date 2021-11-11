@@ -2,17 +2,13 @@
 
 ![Sena](https://telegra.ph/file/d8f101048a435a883d057.jpg)
 
-## Favourite :
+## Profiles :
+- `Indonesia` 🇲🇨
+- `18 Years old`
 - `Drawing`
 - `Anime`
 - `Swiming`
 - `Listen Music`
-
-## Skils :
-- Eat `(50%)`
-- Sleep `(50%)`
-- Learn code `(-100%)`
-- Listening Lil Peep `(1000%)`
 
 ### Let's connect!
 <p>
