@@ -6,13 +6,13 @@
 
 Real name is Sena, 18 Y.o. Gabuters From Indonesia 🇲🇨
 
--  I'm currently working on a "secret" project.
+-  I'm currently working on a Move on projects.
 -  I'm currently Sleep.
 
 ## Where to find me
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/TheHamkerCat)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheHamkerCat)
+[![Instagram](https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/acxken._)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xxskfi)
 
 
 ## Languages
