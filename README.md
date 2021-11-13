@@ -4,10 +4,10 @@
 
 ## Info
 
-Hi There, I'm Sena, 18 Y.o. Gabuters From Indonesia 🇲🇨
+Real name is Sena, 18 Y.o. Gabuters From Indonesia 🇲🇨
 
-- :computer: I'm currently working on a "secret" project.
-- :school: I'm currently Sleep.
+-  I'm currently working on a "secret" project.
+-  I'm currently Sleep.
 
 ## Where to find me
 
@@ -22,10 +22,10 @@ Hi There, I'm Sena, 18 Y.o. Gabuters From Indonesia 🇲🇨
 
 ## OS & Tools
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=red)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=yellow)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=green)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=blue)
 
 
 ## Stats
