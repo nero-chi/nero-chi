@@ -14,12 +14,6 @@ Real name is Sena, 18 Y.o. Gabuters From Indonesia 🇲🇨
 [![Instagram](https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/acxken._)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/excrybaby)
 
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
 ## OS & Tools
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=red)
