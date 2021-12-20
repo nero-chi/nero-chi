@@ -1,13 +1,8 @@
 ## Holaaa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kennedy Project
 
+I'm just amateur beginner coders from indonesia 🇲🇨
+
 ![Sena](https://telegra.ph/file/d8f101048a435a883d057.jpg)
-
-## Info
-
-Real name is Sena, 18 Y.o. Gabuters From Indonesia 🇲🇨
-
--  I'm currently working on a Move on projects.
--  I'm currently Sleep.
 
 ## Where to find me
 
