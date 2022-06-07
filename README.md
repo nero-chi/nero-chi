@@ -1,4 +1,4 @@
-## Holaaa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kennedy Project
+## Holaaa I'm Kennedy Project
 
 I'm just amateur beginner coders from indonesia 🇲🇨
 
