@@ -1,12 +1,5 @@
 ## Holaaa I'm Nero
 
-I'm just amateur beginner coders from indonesia 🇲🇨
-
-![Nero](https://telegra.ph/file/d8f101048a435a883d057.jpg)
-
-## Where to find me
-
-[![Instagram](https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/acxken._)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/saudarayesus)
 
 ## OS & Tools
